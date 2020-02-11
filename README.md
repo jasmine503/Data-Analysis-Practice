@@ -1,1 +1,1 @@
-# This file contains simple pratice of data analysis from Coursera. 
+# This file contains pratice of data analysis from Coursera: Introduction of Data Science in Python.  
